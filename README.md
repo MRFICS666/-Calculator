@@ -1,3 +1,9 @@
+This is code in C#
+
+my first project))
+
+by OneNightGIGIRO_
+
 using System;
 
 namespace ConsoleApplication2
